@@ -1,0 +1,2 @@
+# Crop-analysis-and-prediction
+CROP RECOMMENDATION USING WEATHER AND SOIL CONTENT
